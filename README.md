@@ -1,2 +1,2 @@
-# Markowitz-Optimization
-Portfolio balancing using Markowitz Optimization
+# Portfolio-Optimization
+Portfolio Optimization
